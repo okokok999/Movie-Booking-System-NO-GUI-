@@ -1,0 +1,3 @@
+admin,admin123,admin
+alice,pass123,customer
+bob,pass456,customer
