@@ -1,9 +1,5 @@
 
 # 🎬 Movie Ticket Booking System  
-**ICT103 Programming Mini Project – Stage 2**  
-Semester 1, 2025
-
----
 
 ## 📄 Description
 
